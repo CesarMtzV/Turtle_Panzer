@@ -1,0 +1,1 @@
+global.HB2 = global.HB2-20;
